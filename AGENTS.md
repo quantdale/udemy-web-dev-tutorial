@@ -37,3 +37,9 @@ These exercises may contain personal portfolio-style wording and course-derived 
 Update the root index docs when the repository gains/removes major exercises or a real toolchain. Preserve historical learning context.
 
 Do not discard unrelated work, rewrite history, force-push, or perform broad “modernization” as incidental cleanup. Keep commits scoped and reviewable.
+
+## Cross-project UX, DX, and AX principles
+
+Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout.
+
+Make the best decision that will elevate all three: the user experience (UX), developer experience (DX), and agent experience (AX) always, without breaking anything.
